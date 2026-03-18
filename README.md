@@ -41,7 +41,7 @@ The dashboard presents multiple charts and insights from the dataset.
 ---
 
 ## 🎯 Project Objective
-The objective of this project is to demonstrate **data analysis and visualization using Excel**, highlighting how business data can be transformed into meaningful insights through dashboards.
+The objective of this project is to create an **Annual Sales Report for 2025** to help Public Store analyze sales performance, understand customer behavior, and make data-driven decisions to improve sales in 2026.
 
 ---
 
